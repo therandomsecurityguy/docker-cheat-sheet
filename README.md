@@ -1,7 +1,6 @@
 # Docker Cheat Sheet
 
-* [Why](#why)
-* [Prerequisites](#prerequisites)
+* [Helpful Tools](#helpful-tools)
 * [Installation](#installation)
 * [Containers](#containers)
 * [Images](#images)
@@ -15,15 +14,8 @@
 * [Security](#security)
 * [Tips](#tips)
 
-## Why
 
-"With Docker, developers can build any app in any language using any toolchain. “Dockerized” apps are completely portable and can run anywhere - colleagues’ OS X and Windows laptops, QA servers running Ubuntu in the cloud, and production data center VMs running Red Hat.
-
-Developers can get going quickly by starting with one of the 13,000+ apps available on Docker Hub. Docker manages and tracks changes and dependencies, making it easier for sysadmins to understand how the apps that developers build work. And with Docker Hub, developers can automate their build pipeline and share artifacts with collaborators through public or private repositories.
-
-Docker helps developers build and ship higher-quality applications, faster." -- [What is Docker](https://www.docker.com/whatisdocker/#copy1)
-
-## Prerequisites
+## Helpful Tools
 
 I use [PyCharm Docker plugin](https://plugins.jetbrains.com/plugin/7724) for scripts Docker builds. It's my thing. Use whatever IDE you like.
 
