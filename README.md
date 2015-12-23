@@ -25,7 +25,7 @@ Docker helps developers build and ship higher-quality applications, faster." -- 
 
 ## Prerequisites
 
-I use [PyCharm Docker plugin](https://plugins.jetbrains.com/plugin/7724) for autocompletion of docker commands in scripts. It's my thing. Use whatever IDE you like.
+I use [PyCharm Docker plugin](https://plugins.jetbrains.com/plugin/7724) for scripts Docker builds. It's my thing. Use whatever IDE you like.
 
 ### Linux
 
